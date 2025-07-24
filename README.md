@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend, Android Development, Data Structures, Machine Learning **
 
-- 📫 How to reach me **nikita.pawar@cumminscollege.in**
+- 📫 How to reach me **nikitapawar120603@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
