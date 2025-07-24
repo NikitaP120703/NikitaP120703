@@ -3,7 +3,6 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/99550333/208285478-e6136459-9975-4720-9938-bd4f9e0a816e.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi3004&label=Profile%20views&color=0e75b6&style=flat" alt="NikitaP120703" /> </p>
 
-- 🌱 I’m currently learning **Backend, Android Development, Data Structures, Machine Learning **
 
 - 📫 How to reach me **nikitapawar120603@gmail.com**
 
